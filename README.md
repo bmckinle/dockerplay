@@ -3,7 +3,7 @@ Some core docker examples
 
 # How to build this example
 ```
-docker build -t friendlyhello .
+docker build -t dockerplay .
 ```
 
 # How to run this example 
