@@ -45,7 +45,7 @@ docker stack rm dockerswarmtest
 docker node ls
 ```
 
-# Remote the swarm
+# Remove the swarm
 ```
 docker swarm leave --force
 ```
